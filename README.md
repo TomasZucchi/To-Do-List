@@ -1,0 +1,3 @@
+# To-Do List App 📝
+
+La aplicación Lista de Tareas es una herramienta simple y eficiente para gestionar tareas que te ayuda a mantenerte organizado y productivo. Con su interfaz fácil de usar, puedes agregar, actualizar y eliminar tareas fácilmente para llevar un seguimiento de tus actividades diarias, semanales y mensuales. Este archivo README ofrece información detallada sobre cómo utilizar la aplicación de manera efectiva y destaca sus características principales.
