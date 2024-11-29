@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.4"
+  },
+  "name": "to-do-list",
+  "description": "La aplicación Lista de Tareas es una herramienta simple y eficiente para gestionar tareas que te ayuda a mantenerte organizado y productivo. Con su interfaz fácil de usar, puedes agregar, actualizar y eliminar tareas fácilmente para llevar un seguimiento de tus actividades diarias, semanales y mensuales. Este archivo README ofrece información detallada sobre cómo utilizar la aplicación de manera efectiva y destaca sus características principales.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
